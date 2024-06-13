@@ -12,6 +12,7 @@ resources:
 - service-details.yaml
 - service-product.yaml
 - service-ratings.yaml
+- ingress.yaml
 
 
 

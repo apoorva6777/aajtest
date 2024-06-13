@@ -13,7 +13,7 @@ resources:
 - service-product.yaml
 - service-ratings.yaml
 - ingress.yaml
-- l4-service-to-service-auth-policy.yaml
+- l4.yaml
 - l7-principal-operations-auth-policy.yaml  
 - product-deployment-hpa.yaml
 - details-deployment-hpa.yaml

@@ -16,6 +16,8 @@ resources:
 - product-deployment-hpa.yaml
 - details-deployment-hpa.yaml
 - ratings-deployment-hpa.yaml
+- l4-policy.yaml
+- l7-principal-operations-auth-policy.yaml
 
 
 
